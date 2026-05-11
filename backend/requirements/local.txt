@@ -1,0 +1,5 @@
+# Local development requirements (no Docker dependencies)
+-r base.txt
+
+# Debug
+ipython
